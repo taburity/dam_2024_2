@@ -44,7 +44,7 @@ class _MyApp extends State<MyApp> {
               ),
             ],
             currentIndex: _currentPage,
-            fixedColor: Colors.red,
+            selectedItemColor: Colors.red,
             onTap: (int inIndex){
               setState(() { _currentPage = inIndex; });
             }
