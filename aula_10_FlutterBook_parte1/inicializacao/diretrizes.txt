@@ -1,0 +1,2 @@
+Clonar o projeto: https://github.com/taburity/flutter_book_v1
+Executar as duas versões do main disponibilizadas na pasta, alternadamente, substituindo o main do projeto clonado.
