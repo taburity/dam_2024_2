@@ -1,0 +1,2 @@
+Clonar o projeto: https://github.com/taburity/flutter_book_riverpod.
+Baixar e atualizar dependências.
