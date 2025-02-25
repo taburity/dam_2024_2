@@ -1,3 +1,0 @@
-Clonar o projeto: https://github.com/taburity/flutter_book_v1.
-Baixar e atualizar dependências. 
-Executar a versão do main disponibilizada na pasta, substituindo o main do projeto clonado.
