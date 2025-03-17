@@ -1,0 +1,3 @@
+Clonar o projeto: https://github.com/taburity/flutter_book_geolocation.
+Baixar e atualizar dependências.
+Substituir uso de appointments/appointments_entry.dart por map/appointments_entry_map.dart
