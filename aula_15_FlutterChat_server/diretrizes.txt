@@ -1,2 +1,6 @@
 Clonar o projeto: https://github.com/taburity/flutter_chat_server.
-Baixar e atualizar dependências.
+A partir do diretório local do projeto, executar:
+npm install
+npm start
+
+A saber: server.js é o principal ponto de entrada do aplicativo e iniciará o Node.
