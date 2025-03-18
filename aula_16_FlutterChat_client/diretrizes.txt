@@ -1,0 +1,2 @@
+Clonar o projeto: https://github.com/taburity/flutter_chat_client.
+Baixar e atualizar dependências.
