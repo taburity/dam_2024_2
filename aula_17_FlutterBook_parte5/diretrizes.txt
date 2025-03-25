@@ -1,0 +1,4 @@
+Clonar o projeto: https://github.com/taburity/flutter_book_supabase.
+Baixar e atualizar dependências.
+
+O código está incompleto, possui defeitos.
