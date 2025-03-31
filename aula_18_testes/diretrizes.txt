@@ -1,0 +1,7 @@
+Para cada tipo de teste a seguir, clonar o projeto, baixar e atualizar dependências.
+
+Unidade: https://github.com/taburity/unit_test_demo
+
+Widget: https://github.com/taburity/widget_testing_demo
+
+Integração: https://github.com/taburity/integration_test_demo
